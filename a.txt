@@ -1,0 +1,7 @@
+terminal 1
+npm run dev
+terminal 2
+npm run json-server
+
+o console.log n saiu...
+19:48
